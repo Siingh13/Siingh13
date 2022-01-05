@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Siingh13
+- 👋 Hi, I’m Singh
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on web development
